@@ -18,8 +18,12 @@
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF)
 - ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-3776AB?&logoColor=FFFFFF)  
 - ![](https://img.shields.io/badge/-Data%20Visualisation-3776AB?&logoColor=FFFFFF)
-- ![Automação](https://img.shields.io/badge/-Automação-3776AB?&logoColor=FFFFFF) 
+- ![Automation](https://img.shields.io/badge/-Automation-3776AB?&logoColor=FFFFFF) 
+- ![Machine learning](https://img.shields.io/badge/-Machine%20Learning-3776AB?&logoColor=FFFFFF) 
 - ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) 
+- <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+- <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+- <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
 
 ---
 
