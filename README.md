@@ -6,7 +6,7 @@
 
 ### 👦About me :seedling: : 
 - 👋 My name is *Sebastião Ferreira de Paula Neto*, I'm 22 years old.
-- From Ipanema, Minas Gerais, Brazil.
+- 📌 From Ipanema, Minas Gerais, Brazil.
 - 💼 I am currently a Data Scientist in studies.
 - 🎓 I'm graduating in Control and Automation Engineering, and for 1 year I've been venturing in the world of data science.
 - 🛠️ Studying to become a *data engineer*.
@@ -17,7 +17,7 @@
 ### ⚡ Skills:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF)
 - ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-3776AB?&logoColor=FFFFFF)  
-- ![](https://img.shields.io/badge/-data%20Visualisation-3776AB?&logoColor=FFFFFF)
+- ![](https://img.shields.io/badge/-Data%20Visualisation-3776AB?&logoColor=FFFFFF)
 - ![Automação](https://img.shields.io/badge/-Automação-3776AB?&logoColor=FFFFFF) 
 - ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) 
 
