@@ -1,23 +1,23 @@
  <h1 align="center"> 
-	✅Bem vindo ao meu GitHub🚀
+	✅Welcome to my GitHub🚀
 </h1>
 
 ---
 
-### 👦Sobre mim :seedling: : 
-- 👋 Me chamo *Sebastião Ferreira de Paula Neto*, tenho 22 anos.
-- 📌  De Ipanema, Minas Gerais, Brasil.
-- 💼 Atualmente sou Cientista de dados em estudos.
-- 🎓 Sou graduando em Engenharia de Controle e Automação, e a 1 ano venho me aventurando no mundo da ciências de dados.
-- 🛠️ Estudando para me tornar um *data engineer*.
+### 👦About me :seedling: : 
+- 👋 My name is *Sebastião Ferreira de Paula Neto*, I'm 22 years old.
+- From Ipanema, Minas Gerais, Brazil.
+- 💼 I am currently a Data Scientist in studies.
+- 🎓 I'm graduating in Control and Automation Engineering, and for 1 year I've been venturing in the world of data science.
+- 🛠️ Studying to become a *data engineer*.
 
 
 <hr>
 
-### ⚡ Habilidades:
+### ⚡ Skills:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF)
 - ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-3776AB?&logoColor=FFFFFF)  
-- ![Visualização De Dados](https://img.shields.io/badge/-Visualização%20De%20Dados-3776AB?&logoColor=FFFFFF)
+- ![](https://img.shields.io/badge/-data%20Visualisation-3776AB?&logoColor=FFFFFF)
 - ![Automação](https://img.shields.io/badge/-Automação-3776AB?&logoColor=FFFFFF) 
 - ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) 
 
@@ -31,7 +31,7 @@
 
 ---
 
-### 🧰 Ferramentas:
+### 🧰 Tools:
 - ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF) 
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) 
 - ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF) 
@@ -42,16 +42,16 @@
 
 ---
 
-### :bulb:  Estatísticas gerais 
+### :bulb:  General statistics 
  
 ![tiao github stats](https://github-readme-stats.vercel.app/api?username=Tiao553&theme=cobalt&show_icons=true)
 
-### 📈  linguagens mais usadas 
+### 📈  most commonly used languages 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiao553&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 <hr>
 
-## ✅ Entre em contato! ✉️
+## ✅ Get in contact with me! ✉️
 
 [![author](https://img.shields.io/badge/Linkedin-Sebastiao-blue.svg)](https://www.linkedin.com/in/sebasti%C3%A3o-ferreira-de-paula-neto-84673216b/) 
 [![author](https://img.shields.io/badge/github-tiao553-black.svg)](https://github.com/Tiao553) 
