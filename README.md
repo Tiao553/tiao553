@@ -1,9 +1,12 @@
- <h1 align="center"> 
+[![author](https://img.shields.io/badge/author-Tiao553-yellow.svg)](https://www.linkedin.com/in/sebasti%C3%A3o-ferreira-de-paula-neto-84673216b/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](http://perso.crans.org/besson/LICENSE.html) 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tiao553/Projects_Data_Science/main/banerr.png" >
+</p>
+
+
+<h1 align="center"> 
 	✅Welcome to my GitHub🚀
 </h1>
-
-[link for My portfolio ](https://bit.ly/3mxAYrN)
-
 ---
 
 ### 👦About me :seedling: : 
@@ -17,44 +20,70 @@
 <hr>
 
 ### ⚡ Skills:
-<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
-[<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
+#### 💼 Programing languages:
 
-<img align="left" alt="Azure" width="26px" src="https://www.parkmycloud.com/wp-content/uploads/2018/02/Azure_.png" />
+Python, Scala, Bash, and SQL 
 
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
-
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
-
-<img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pytorch.svg" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+#### 🛠️ Field of studies:
+Machine Learning, Deep Learning, tensor flow, and Mathematical Optimisation.
 
 ---
 
 ### 📦 Databases:
- ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) 
- ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF) 
-![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF)
- <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+MySQL, PostgreSQL, SQLite, MongoDB, Redis, and Firebase.
 
 ---
 
-### 🧰 Tools:
- ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) 
- ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF) 
- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) 
- ![PyPI](https://img.shields.io/badge/-PyPI-3775A9?&logo=PyPI&logoColor=FFFFFF) 
- ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?&logo=Kaggle&logoColor=FFFFFF) 
- ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) 
+### 🧰 BigData and DevOps & CI/CD: 
+  * AWS = S3, Sagemaker, lambda, Kinesis, Amazon Athena, Amazon EMR, AWS Glue, DataBrew, Databricks & Amazon Redshift.
+  * OSS = Kubernetes, HDFS, Kafka, Spark, Hive, ElasticSearch, Airflow
+  * Git Actions, CircleCI, Docker, kubernetes.
 
 ---
+
+---
+## Projects about the Data Science:
+---
+> ### **learning:**
+* **[IN BUILDING]  Python Learning Guide [EN-US]:**  [Link](https://bit.ly/3kaLN1O) 
+* **[IN BUILDING] Learn statistics for data sciences [PT-BR]:** [Link](https://bit.ly/3u8RfqT) 
+* **Creating infomaps with folium and JSON [PT-BR]:** [Link](https://bit.ly/2NgjB1e)
+* **Features engineering, learn interactively [EN-US]:** [link](https://www.linkedin.com/pulse/would-you-like-see-interactive-form-feature-ferreira-de-paula-neto/?trackingId=aGkbqpVpQ%2BqLf4YjyiANsA%3D%3D)
+
+> ### **Analyzes:**
+* **Airbnb Data Analysis - Buenos Aires, Argentina [PT-BR] :** [link](https://bit.ly/3oEmHsP)
+* **Analyzing the Violence in Rio de Janeiro [PT-BR] :** [link](https://bit.ly/3qcvT8u)
+
+> ### **Machine Learning:**
+ 
+
+> ### **Deep Learning:**
+
+
+---
+
+## Projects about the Data engineer:
+
+> ### **MySQL**:
+
+* **Database generating invoice:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/notafiscal.png)
+* **Database for a popsicle factory:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/fabrica_picole_my.png)
+* **Database for a real application in a pharmacy:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/DrogariaAvenida.png)
+
+> ### **PySpark**:
+
+* **Gettin Started [PT-BR]:** [link](https://github.com/Tiao553/Projects_databases/blob/main/Sparrk/Learnign_PySpark.ipynb) 
+
+> ### **Airflow**:
+
+
+> ### Manipulating data ans good's pratices:
+
+* **Data manipulating with pandas [PT-BR]:** [Link](https://bit.ly/2OLFaId)
+* **Code otimization in Python [PT-BR]:** [Link](https://bit.ly/3wYRK89)
+
 
 ### :bulb:  General statistics 
  
