@@ -84,7 +84,9 @@ MySQL, PostgreSQL, SQLite, MongoDB, Redis, and Firebase.
 * **Data manipulating with pandas [PT-BR]:** [Link](https://bit.ly/2OLFaId)
 * **Code otimization in Python [PT-BR]:** [Link](https://bit.ly/3wYRK89)
 
+---
 
+---
 ### :bulb:  General statistics 
  
 ![tiao github stats](https://github-readme-stats.vercel.app/api?username=Tiao553&theme=cobalt&show_icons=true)
