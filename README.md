@@ -66,13 +66,10 @@ MySQL, PostgreSQL, SQLite, MongoDB, Redis, and Firebase.
 
 ## Projects about the Data engineer:
 
-> ### **MySQL**:
+> ### **Infra with code**:
+* **Creation of simple and limited infrastructures such as code [PT-BR]:** [Link](https://github.com/Tiao553/Tests_infraestrutura_como_codigo)
 
-* **Database generating invoice:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/notafiscal.png)
-* **Database for a popsicle factory:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/fabrica_picole_my.png)
-* **Database for a real application in a pharmacy:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/DrogariaAvenida.png)
-
-> ### **PySpark**:
+> ### **Spark**:
 
 * **Gettin Started [PT-BR]:** [link](https://github.com/Tiao553/Projects_databases/blob/main/Sparrk/Learnign_PySpark.ipynb) 
 
@@ -83,6 +80,13 @@ MySQL, PostgreSQL, SQLite, MongoDB, Redis, and Firebase.
 
 * **Data manipulating with pandas [PT-BR]:** [Link](https://bit.ly/2OLFaId)
 * **Code otimization in Python [PT-BR]:** [Link](https://bit.ly/3wYRK89)
+
+> #### **MySQL**:
+
+* **Database generating invoice:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/notafiscal.png)
+* **Database for a popsicle factory:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/fabrica_picole_my.png)
+* **Database for a real application in a pharmacy:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/DrogariaAvenida.png)
+
 
 ---
 
