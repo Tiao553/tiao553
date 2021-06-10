@@ -71,21 +71,21 @@ MySQL, PostgreSQL, SQLite, MongoDB, Redis, and Firebase.
 
 > ### **Spark**:
 
-* **Gettin Started [PT-BR]:** [link](https://github.com/Tiao553/Projects_databases/blob/main/Sparrk/Learnign_PySpark.ipynb) 
+* **Gettin Started [PT-BR]:** [link](https://github.com/Tiao553/Projects_Data/blob/main/Projects_Data_Eng-main/Sparrk/Learnign_PySpark.ipynb) 
 
 > ### **Airflow**:
 
 
 > ### Manipulating data ans good's pratices:
 
-* **Data manipulating with pandas [PT-BR]:** [Link](https://bit.ly/2OLFaId)
-* **Code otimization in Python [PT-BR]:** [Link](https://bit.ly/3wYRK89)
+* **Data manipulating with pandas [PT-BR]:** [Link](https://github.com/Tiao553/Projects_Data/blob/main/Projects_Data_Eng-main/Manipulating_with_pandas.ipynb)
+* **Code otimization in Python [PT-BR]:** [Link](https://github.com/Tiao553/Projects_Data/blob/main/Projects_Data_Eng-main/Efficients_codes.ipynb)
 
 > #### **MySQL**:
 
-* **Database generating invoice:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/notafiscal.png)
-* **Database for a popsicle factory:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/fabrica_picole_my.png)
-* **Database for a real application in a pharmacy:** [Link](https://github.com/Tiao553/Projects_databases/blob/main/modelagem/DrogariaAvenida.png)
+* **Database generating invoice:** [Link](https://raw.githubusercontent.com/Tiao553/Projects_Data/main/Projects_Data_Eng-main/modelagem/notafiscal.png)
+* **Database for a popsicle factory:** [Link](https://raw.githubusercontent.com/Tiao553/Projects_Data/main/Projects_Data_Eng-main/modelagem/fabrica_picole_my.png)
+* **Database for a real application in a pharmacy:** [Link](https://raw.githubusercontent.com/Tiao553/Projects_Data/main/Projects_Data_Eng-main/modelagem/DrogariaAvenida.png)
 
 
 ---
