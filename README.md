@@ -14,7 +14,7 @@
 - 📌 From Ipanema, Minas Gerais, Brazil.
 - 💼 I am currently a Data Scientist in studies.
 - 🎓 I'm graduating in Control and Automation Engineering, and for 1 year I've been venturing in the world of data science.
-- 🛠️ Studying to become a *data engineer*.
+- 🛠️ Studying to become a *Machine Learning Engineer*.
 
 
 <hr>
