@@ -75,6 +75,7 @@ MySQL, PostgreSQL, SQLite, MongoDB, Redis, and Firebase.
 
 > ### **Airflow**:
 
+> ### **Kafka**:
 
 > ### Manipulating data ans good's pratices:
 
