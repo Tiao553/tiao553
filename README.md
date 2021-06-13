@@ -67,7 +67,7 @@ MySQL, PostgreSQL, SQLite, MongoDB, Redis, and Firebase.
 ## Projects about the Data engineer:
 
 > ### **Infra with code**:
-* **Creation of simple and limited infrastructures such as code [PT-BR]:** [Link](https://github.com/Tiao553/Tests_infraestrutura_como_codigo)
+* **Creation of simple and limited infrastructures such as code [PT-BR]:** [Link](https://github.com/Tiao553/infrastruture-as-a-code)
 
 > ### **Spark**:
 
