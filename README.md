@@ -67,7 +67,7 @@ MySQL, PostgreSQL, SQLite, MongoDB, Redis, and Firebase.
 ## Projects about the Data engineer:
 
 > ### **Infra with code**:
-* **Creation of simple and limited infrastructures such as code [PT-BR]:** [Link](https://github.com/Tiao553/infrastruture-as-a-code)
+* **[AWS] Creation of simple and limited infrastructures such as code [PT-BR]:** [Link](https://github.com/Tiao553/infrastruture-as-a-code)
 
 > ### **Spark**:
 
@@ -81,13 +81,6 @@ MySQL, PostgreSQL, SQLite, MongoDB, Redis, and Firebase.
 
 * **Data manipulating with pandas [PT-BR]:** [Link](https://github.com/Tiao553/Projects_Data/blob/main/Projects_Data_Eng-main/Manipulating_with_pandas.ipynb)
 * **Code otimization in Python [PT-BR]:** [Link](https://github.com/Tiao553/Projects_Data/blob/main/Projects_Data_Eng-main/Efficients_codes.ipynb)
-
-> #### **MySQL**:
-
-* **Database generating invoice:** [Link](https://raw.githubusercontent.com/Tiao553/Projects_Data/main/Projects_Data_Eng-main/modelagem/notafiscal.png)
-* **Database for a popsicle factory:** [Link](https://raw.githubusercontent.com/Tiao553/Projects_Data/main/Projects_Data_Eng-main/modelagem/fabrica_picole_my.png)
-* **Database for a real application in a pharmacy:** [Link](https://raw.githubusercontent.com/Tiao553/Projects_Data/main/Projects_Data_Eng-main/modelagem/DrogariaAvenida.png)
-
 
 ---
 
