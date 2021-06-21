@@ -26,7 +26,7 @@
 Python, Scala, Bash, and SQL 
 
 #### 🛠️ Field of studies:
-Machine Learning, Deep Learning, tensor flow, and Mathematical Optimisation.
+Machine Learning, Deep Learning, tensor flow, architecture builder, and Mathematical Optimisation.
 
 ---
 
@@ -37,7 +37,7 @@ MySQL, PostgreSQL, SQLite, MongoDB, Redis, and Firebase.
 ---
 
 ### 🧰 BigData and DevOps & CI/CD: 
-  * AWS = S3, Sagemaker, lambda, Kinesis, Amazon Athena, Amazon EMR, AWS Glue, DataBrew, Databricks & Amazon Redshift.
+  * Clouds AWS(Amazon Web Service), and Google CLoud
   * OSS = Kubernetes, HDFS, Kafka, Spark, Hive, ElasticSearch, Airflow
   * Git Actions, CircleCI, Docker, kubernetes.
 
@@ -62,12 +62,18 @@ MySQL, PostgreSQL, SQLite, MongoDB, Redis, and Firebase.
 > ### **Deep Learning:**
 
 
+> ### **Pipelines Machine Learning:**
+
+
+> ### **Feature Store:**
+
 ---
 
 ## Projects about the Data engineer:
 
 > ### **Infra with code**:
 * **[AWS] Creation of simple and limited infrastructures such as code [PT-BR]:** [Link](https://github.com/Tiao553/infrastruture-as-a-code)
+* **[AWS] Building a lambda pipeline with CDK:** [Link](https://github.com/Tiao553/pipeline_lambda_as_CDK)
 
 > ### **Spark**:
 
