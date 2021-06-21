@@ -89,15 +89,6 @@ MySQL, PostgreSQL, SQLite, MongoDB, Redis, and Firebase.
 * **Code otimization in Python [PT-BR]:** [Link](https://github.com/Tiao553/Projects_Data/blob/main/Projects_Data_Eng-main/Efficients_codes.ipynb)
 
 ---
-
----
-### :bulb:  General statistics 
- 
-![tiao github stats](https://github-readme-stats.vercel.app/api?username=Tiao553&theme=cobalt&show_icons=true)
-
-### 📈  most commonly used languages 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiao553&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
-
 <hr>
 
 ## ✅ Get in contact with me! ✉️
