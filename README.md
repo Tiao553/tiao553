@@ -46,7 +46,7 @@ MySQL, PostgreSQL, SQLite, MongoDB, Redis, and Firebase.
 ---
 ## Projects about the Data Science:
 ---
-> ### **learning:**
+> ### **Learning:**
 * **[IN BUILDING]  Python Learning Guide [EN-US]:**  [Link](https://bit.ly/3kaLN1O) 
 * **[IN BUILDING] Learn statistics for data sciences [PT-BR]:** [Link](https://bit.ly/3u8RfqT) 
 * **Creating infomaps with folium and JSON [PT-BR]:** [Link](https://bit.ly/2NgjB1e)
@@ -74,7 +74,7 @@ MySQL, PostgreSQL, SQLite, MongoDB, Redis, and Firebase.
 > ### **Infra with code**:
 * **[AWS] Creation of simple and limited infrastructures such as code [PT-BR]:** [Link](https://github.com/Tiao553/infrastruture-as-a-code)
 * **[AWS] Building a lambda pipeline with CDK:** [Link](https://github.com/Tiao553/pipeline_lambda_as_CDK)
-* **[GCP] Hackathon A3data:** [link]('https://github.com/Tiao553/hackathon-A3Data-Ipating')
+* **[GCP] Hackathon A3data:** [link](https://github.com/Tiao553/hackathon-A3Data-Ipating)
 
 > ### **Spark**:
 
