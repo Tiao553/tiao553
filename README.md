@@ -7,7 +7,7 @@
 <h1 align="center"> 
 	✅Welcome to my GitHub🚀
 </h1>
----
+
 
 ### 👦About me :seedling: : 
 - 👋 My name is *Sebastião Ferreira de Paula Neto*, I'm 22 years old.
@@ -23,10 +23,7 @@
 
 #### 💼 Programing languages:
 
-Python, Scala, Bash, and SQL 
-
-#### 🛠️ Field of studies:
-Machine Learning, Deep Learning, tensor flow, architecture builder, and Mathematical Optimisation.
+Python, Bash, TerraForm, and SQL.
 
 ---
 
@@ -44,50 +41,39 @@ MySQL, PostgreSQL, SQLite, MongoDB, Redis, and Firebase.
 ---
 
 ---
+
 ## Projects about the Data Science:
----
-> ### **Learning:**
-* **[IN BUILDING]  Python Learning Guide [EN-US]:**  [Link](https://bit.ly/3kaLN1O) 
-* **[IN BUILDING] Learn statistics for data sciences [PT-BR]:** [Link](https://bit.ly/3u8RfqT) 
-* **Creating infomaps with folium and JSON [PT-BR]:** [Link](https://bit.ly/2NgjB1e)
-* **Features engineering, learn interactively [EN-US]:** [link](https://www.linkedin.com/pulse/would-you-like-see-interactive-form-feature-ferreira-de-paula-neto/?trackingId=aGkbqpVpQ%2BqLf4YjyiANsA%3D%3D)
 
-> ### **Analyzes:**
-* **Airbnb Data Analysis - Buenos Aires, Argentina [PT-BR] :** [link](https://bit.ly/3oEmHsP)
-* **Analyzing the Violence in Rio de Janeiro [PT-BR] :** [link](https://bit.ly/3qcvT8u)
+* ### Airbnb Data Analysis - Buenos Aires, Argentina [PT-BR] : [link](https://github.com/Tiao553/Data_Science_repo/blob/master/Analise_Airbnb/An%C3%A1lise_dos_Dados_do_Airbnb_Buenos_Aires%2C_Argentina.ipynb)
+* ### Analyzing the Violence in Rio de Janeiro [PT-BR] : [link](https://github.com/Tiao553/Data_Science_repo/blob/master/Analise_rio/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
+* ### Features engineering, learn interactively [EN-US]: [link](https://www.linkedin.com/pulse/would-you-like-see-interactive-form-feature-ferreira-de-paula-neto/?trackingId=aGkbqpVpQ%2BqLf4YjyiANsA%3D%3D)
 
-> ### **Machine Learning:**
- 
-
-> ### **Deep Learning:**
-
-
-> ### **Pipelines Machine Learning:**
-
-
-> ### **Feature Store:**
 
 ---
 
 ## Projects about the Data engineer:
 
-> ### **Infra with code**:
-* **[AWS] Creation of simple and limited infrastructures such as code [PT-BR]:** [Link](https://github.com/Tiao553/infrastruture-as-a-code)
-* **[AWS] Building a lambda pipeline with CDK:** [Link](https://github.com/Tiao553/pipeline_lambda_as_CDK)
-* **[GCP] Hackathon A3data:** [link](https://github.com/Tiao553/hackathon-A3Data-Ipating)
+* ### **[AWS]** Creation of simple and limited infrastructures such as code [PT-BR]: [Link](https://github.com/Tiao553/infrastruture-as-a-code)
 
-> ### **Spark**:
+* ### **[AWS]** Building a lambda pipeline with CDK: [Link](https://github.com/Tiao553/pipeline_lambda_as_CDK)
 
-* **Gettin Started [PT-BR]:** [link](https://github.com/Tiao553/Projects_Data/blob/main/Projects_Data_Eng-main/Sparrk/Learnign_PySpark.ipynb) 
+* ### **[GCP]** Hackathon A3data: [link](https://github.com/Tiao553/hackathon-A3Data-Ipating)
 
-> ### **Airflow**:
+* ### Data Collection Pipeline in Yahoo Finance: [link](https://github.com/Tiao553/project-data-forex)
 
-> ### **Kafka**:
+## Outher Projets
 
-> ### Manipulating data ans good's pratices:
+* Getting Started PySpark [PT-BR]: [link](https://github.com/Tiao553/Data_Science_repo/blob/master/DB/Learnign_PySpark.ipynb)
+ 
+* Data manipulating with pandas [PT-BR]: [Link](https://github.com/Tiao553/Data_Science_repo/blob/master/DB/Manipulating_with_pandas.ipynb)
 
-* **Data manipulating with pandas [PT-BR]:** [Link](https://github.com/Tiao553/Projects_Data/blob/main/Projects_Data_Eng-main/Manipulating_with_pandas.ipynb)
-* **Code otimization in Python [PT-BR]:** [Link](https://github.com/Tiao553/Projects_Data/blob/main/Projects_Data_Eng-main/Efficients_codes.ipynb)
+* Code otimization in Python [PT-BR]: [Link](https://github.com/Tiao553/Data_Science_repo/blob/master/DB/Efficients_codes.ipynb)
+
+* **[IN BUILDING]**  Python Learning Guide [EN-US]:  [Link](https://bit.ly/3kaLN1O) 
+
+* **[IN BUILDING]** Learn statistics for data sciences [PT-BR]: [Link](https://github.com/Tiao553/Data_Science_repo/blob/master/Estatistica_para_cientistas_de_dados/Estatistica.ipynb) 
+
+* Creating infomaps with folium and JSON [PT-BR]: [Link](https://github.com/Tiao553/Data_Science_repo/blob/master/Folium_mapas_interativos/learning_package_folium_and_json.ipynb)
 
 ---
 <hr>
