@@ -16,12 +16,17 @@ Currently I invest my time in learning about data engineering, an area I fell in
 </h1>
 
 * Machine Learning and Data Science with Python of A to Z:  [Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-0cbba4ac-04ba-4667-9a8e-5b184d68360f.jpg?v=1627663154000)
+	> With this course I was able to learn about a good part of a data scientist's pipeline considering from data preparation to application of supervised to unsupervised algorithms. In the course it was also proposed several use cases.
 
 * TensorFlow: Machine Learning and Deep Learning with Python:  [Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-b622d7ad-d7e4-4af4-a407-f9bc463428bb.jpg?v=1627664225000)
+	> Theory and practice of how to build artificial neural networks to solve real problems of the day with convolutional neural networks, recurrent neural networks, autoencoders, and robust generative adversarial networks using TensorFlow were proposed in the course.
 
 * SQL and NoSQL Databases from basic to advanced:  [Certificate](https://www.geekuniversity.com.br/media/solicitacao/certificados/54ebff03-6e76-46f2-b6d5-213c17f76f3f.png) 
+	> With course I learned to use different SQL and NoSQL Database Management Systems, model relational databases applying the five normal ways.
+**[MySQL, PostgreSQL, SQLite, MongoDB,Redis, CouchDB,and Firehouse]**
 
 * HOWBootcamps Engenharia de dados: [Certificate](https://github.com/Tiao553/tiao553/blob/1494f3af333e42005cf3b5bf5052e4ad064ef454/Sebasti%C3%A3o%20-%20Data%20Engineering%20-%20May%202021.pdf)
+	> In this bootcamp it was proposed to build a pipeline with lambda architecture. Where we use the infrastructure as AWS CDK code, create a datalake and a datawarehouse, process data with databricks, orchestrate tasks with airflow and automate tests and processes.
 
 <h1 align="center"> 
 	🛠️ Programing languages
@@ -34,18 +39,18 @@ Currently I invest my time in learning about data engineering, an area I fell in
  </div>
 
 ---
+	
 <center><img src='portifolio.png'></center>
 
 <h2 align="center"> 
 	Projects about the Data Science
 </h2>
 
+* ### Analyzing the Violence in Rio de Janeiro [PT-BR]: [link](https://github.com/Tiao553/Data_Science_repo/blob/master/Analise_rio/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
+	>  A descriptive analysis was made with the objective of understanding which were the main influencers of the high violence observed in Rio de Janeiro.
 
 * ### Airbnb Data Analysis, Buenos Aires, Argentina [PT-BR]: [link](https://bit.ly/3idzxhE)
 	>  Descriptive analysis on the data provided by Airbnb in order to understand which neighborhoods are the best to rent according to price and location.
-
-* ### Analyzing the Violence in Rio de Janeiro [PT-BR]: [link](https://github.com/Tiao553/Data_Science_repo/blob/master/Analise_rio/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
-	>  A descriptive analysis was made with the objective of understanding which were the main influencers of the high violence observed in Rio de Janeiro.
 
 * ### Features engineering, learn interactively [EN-US]: [link](https://www.linkedin.com/pulse/would-you-like-see-interactive-form-feature-ferreira-de-paula-neto/?trackingId=aGkbqpVpQ%2BqLf4YjyiANsA%3D%3D)
 	>  One way to improve the performance of a model is feature enginerring. In this article I show how to apply this technique in a simple interactive way.
