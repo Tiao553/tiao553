@@ -33,7 +33,6 @@ Currently I invest my time in learning about data engineering, an area I fell in
 </h1>
 
  <div align="center">
-	<a href="https://github.com/Tiao553">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiao553&layout=compact&langs_count=7&theme=draula"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiao553&show_icons=true&theme=draula&include_all_commits=true&count_private=true"/>
  </div>
