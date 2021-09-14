@@ -12,23 +12,6 @@ Currently I invest my time in learning about data engineering, an area I fell in
 --
 
 <h1 align="center"> 
-	🎓 Education
-</h1>
-
-* Machine Learning and Data Science with Python of A to Z:  [Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-0cbba4ac-04ba-4667-9a8e-5b184d68360f.jpg?v=1627663154000)
-	> With this course I was able to learn about a good part of a data scientist's pipeline considering from data preparation to application of supervised to unsupervised algorithms. In the course it was also proposed several use cases.
-
-* TensorFlow: Machine Learning and Deep Learning with Python:  [Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-b622d7ad-d7e4-4af4-a407-f9bc463428bb.jpg?v=1627664225000)
-	> Theory and practice of how to build artificial neural networks to solve real problems of the day with convolutional neural networks, recurrent neural networks, autoencoders, and robust generative adversarial networks using TensorFlow were proposed in the course.
-
-* SQL and NoSQL Databases from basic to advanced:  [Certificate](https://www.geekuniversity.com.br/media/solicitacao/certificados/54ebff03-6e76-46f2-b6d5-213c17f76f3f.png) 
-	> With course I learned to use different SQL and NoSQL Database Management Systems, model relational databases applying the five normal ways.
-**[MySQL, PostgreSQL, SQLite, MongoDB,Redis, CouchDB,and Firehouse]**
-
-* HOWBootcamps Engenharia de dados: [Certificate](https://github.com/Tiao553/tiao553/blob/1494f3af333e42005cf3b5bf5052e4ad064ef454/Sebasti%C3%A3o%20-%20Data%20Engineering%20-%20May%202021.pdf)
-	> In this bootcamp it was proposed to build a pipeline with lambda architecture. Where we use the infrastructure as AWS CDK code, create a datalake and a datawarehouse, process data with databricks, orchestrate tasks with airflow and automate tests and processes.
-
-<h1 align="center"> 
 	🛠️ Programing languages
 </h1>
 
@@ -38,7 +21,7 @@ Currently I invest my time in learning about data engineering, an area I fell in
  </div>
 
 ---
-	
+
 <center><img src='portifolio.png'></center>
 
 <h2 align="center"> 
@@ -69,6 +52,22 @@ Currently I invest my time in learning about data engineering, an area I fell in
 	>  Back to the origins. I entered the market with many cloud-oriented solutions. With that in mind I worked on this project creating instances of **Hadoop, spark, and Hive** to get an experience with these tools.
 
 ---
+
+<center><img src='education.png'></center>
+
+* Machine Learning and Data Science with Python of A to Z:  [Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-0cbba4ac-04ba-4667-9a8e-5b184d68360f.jpg?v=1627663154000)
+	> With this course I was able to learn about a good part of a data scientist's pipeline considering from data preparation to application of supervised to unsupervised algorithms. In the course it was also proposed several use cases.
+
+* TensorFlow: Machine Learning and Deep Learning with Python:  [Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-b622d7ad-d7e4-4af4-a407-f9bc463428bb.jpg?v=1627664225000)
+	> Theory and practice of how to build artificial neural networks to solve real problems of the day with convolutional neural networks, recurrent neural networks, autoencoders, and robust generative adversarial networks using TensorFlow were proposed in the course.
+
+* SQL and NoSQL Databases from basic to advanced:  [Certificate](https://www.geekuniversity.com.br/media/solicitacao/certificados/54ebff03-6e76-46f2-b6d5-213c17f76f3f.png) 
+	> With course I learned to use different SQL and NoSQL Database Management Systems, model relational databases applying the five normal ways.
+**[MySQL, PostgreSQL, SQLite, MongoDB,Redis, CouchDB,and Firehouse]**
+
+* HOWBootcamps Engenharia de dados: [Certificate](https://github.com/Tiao553/tiao553/blob/1494f3af333e42005cf3b5bf5052e4ad064ef454/Sebasti%C3%A3o%20-%20Data%20Engineering%20-%20May%202021.pdf)
+	> In this bootcamp it was proposed to build a pipeline with lambda architecture. Where we use the infrastructure as AWS CDK code, create a datalake and a datawarehouse, process data with databricks, orchestrate tasks with airflow and automate tests and processes.
+
 <hr>
 
 ## ✅ Get in contact with me! ✉️
